@@ -6,6 +6,10 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		System.out.println("깃헙 연습입니다....");
 
+		
+		
+		System.out.println("??? 바보입니다....");
+		
 	}
 
 }
