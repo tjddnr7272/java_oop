@@ -210,29 +210,7 @@ public class Account {
     }
 
     	
-//    	String accNumber = account.getAccountNumber();
-//    	if(accountNumber.equals(accNumber)){
-//    		String accOwner = account.getAccountOwner();
-//    		if(accOwner.equals(accountOwner)) {
-//    			int passwd = account.getPassword();   //기본타입은 비교할떄 ==로 비교함
-//    			if(passwd == password) {
-//    				long money = account.getRestMoney();
-//    				if(money == restMoney) {
-//    					return true;
-//    				}
-//    				
-//    			}
-//    			
-//    		}
-//    	}
-//    	
-//    	
-//    	
-//    	
-    	
-    
-    
-    
+// Git 연습 코드 추가입니다...    
     
     
 
